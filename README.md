@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavya Agarwal</h1>
 <h3 align="center">A passionate IT enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyaagarwal178&label=Profile%20views&color=0e75b6&style=flat" alt="kavyaagarwal178" /> </p>
 
 - 🌱 I’m currently learning **AI/ML**
 
