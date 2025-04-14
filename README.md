@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align = "left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Alt Text" width="50" height="50" style="margin-right : 5px;">
-<img src = "https://marketplace.topdesk.com/wp-content/uploads/2018/02/powerbi-logo.png" alt="Alt Text" width="50" height="50">
-<img src = "https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="Alt Text" width="50" height="50">
+<img src = "https://marketplace.topdesk.com/wp-content/uploads/2018/02/powerbi-logo.png" alt="Alt Text" width="50" height="50" style="margin-right : 5px;">
+<img src = "https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="Alt Text" width="50" height="50" style="margin-right : 5px;">
 </p>
 
