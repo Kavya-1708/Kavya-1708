@@ -16,7 +16,7 @@
 <img src = "https://marketplace.topdesk.com/wp-content/uploads/2018/02/powerbi-logo.png" alt=Power BI" width="50" height="50"> &nbsp;&nbsp;
 <img src = "https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="Microsoft SQL Server" width="50" height="50"> &nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt= "Python" width="50" height="50"> &nbsp;&nbsp;
-<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt = "Numpy" width="50" height="50"> &nbsp;&nbsp;
-<img src = https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/270px-Matplotlib_icon.svg.png?20150311090915" alt ="Matplotlib" width="50" height="50">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt = "Numpy" width="50" height="50"> &nbsp;&nbsp;
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/270px-Matplotlib_icon.svg.png?20150311090915" alt ="Matplotlib" width="50" height="50">
 </p>
 
