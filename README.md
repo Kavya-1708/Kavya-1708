@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kavya Agarwal</h1>
-<h3 align="center">A passionate Data Science enthusiast</h3>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
 
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Excel,SQL,Power BI**
+- 💬 Ask me about **Excel, SQL, Power BI**
 
 - 📫 How to reach me **Kavyaaagarwal178@gmail.com**
 
