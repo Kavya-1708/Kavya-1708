@@ -17,6 +17,7 @@
 <img src = "https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="Microsoft SQL Server" width="50" height="50"> &nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt= "Python" width="50" height="50"> &nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt = "Numpy" width="50" height="50"> &nbsp;&nbsp;
+<img src = "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/seaborn-mazs5fsvs6lluqsnmeik89.png/seaborn-b4pddoh3hfg4k85ug0oazo.png?_a=DAJFJtWIZAAC" alt = "Seaborn" width="50" height="50"> &nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/270px-Matplotlib_icon.svg.png?20150311090915" alt ="Matplotlib" width="50" height="50">
 </p>
 
