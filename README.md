@@ -22,6 +22,4 @@
 <img src = "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/seaborn-mazs5fsvs6lluqsnmeik89.png/seaborn-b4pddoh3hfg4k85ug0oazo.png?_a=DAJFJtWIZAAC" alt = "Seaborn" width="50" height="50"> &nbsp;&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/270px-Matplotlib_icon.svg.png?20150311090915" alt ="Matplotlib" width="50" height="50">
 </p>
-<br><br>
-<h3 align = "My github stats:" </h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kavya-1708" alt="GitHub Streak" /></a>
+
