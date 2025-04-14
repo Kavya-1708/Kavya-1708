@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya Agarwal</h1>
-<h3 align="center">A passionate IT enthusiast</h3>
+<h3 align="center">A passionate Data Science enthusiast</h3>
 
 
 - 🌱 I’m currently learning **AI/ML**
@@ -14,5 +14,6 @@
 <p align = "left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Alt Text" width="50" height="50">
 <img src = "https://marketplace.topdesk.com/wp-content/uploads/2018/02/powerbi-logo.png" alt="Alt Text" width="50" height="50">
+<img src = "https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="Alt Text" width="50" height="50">
 </p>
 
