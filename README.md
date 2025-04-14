@@ -11,7 +11,7 @@
 - 📄 Certifications earned -  [(https://drive.google.com/drive/folders/1iuN9Za-k833YE5w7YCj6VBvl8SVno-JV?usp=sharing)]
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Alt Text" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Alt Text" width="50" height="50">
 
 <p align="left">
 </p>
