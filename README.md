@@ -25,8 +25,6 @@
 
 ### GitHub Stats 
 
-### GitHub Stats
-
-![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavya-1708&show_icons=true&theme=tokyonight)
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-1708&show_icons=true&theme=radical)
 
 
