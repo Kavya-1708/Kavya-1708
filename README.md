@@ -29,5 +29,4 @@
 
 ![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavya-1708&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-1708&layout=compact&theme=tokyonight)
 
