@@ -23,5 +23,9 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/270px-Matplotlib_icon.svg.png?20150311090915" alt ="Matplotlib" width="50" height="50">
 </p>
 
-### Github stats 
-[![Kavya Agarwal stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kavya-1708)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats with Light Colors
+
+![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavya-1708&show_icons=true&bg_color=ffffff&title_color=4682B4&text_color=000000&icon_color=4682B4)
+
+
+
