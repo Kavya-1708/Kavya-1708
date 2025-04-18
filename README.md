@@ -25,6 +25,6 @@
 
 ### GitHub Stats
 
-![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?Kavya-1708=Kavya-1708&show_icons=true&theme=radical)
+![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?Username=Kavya-1708&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Kavya-1708=Kavya-1708&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Username=Kavya-1708&layout=compact&theme=radical)
