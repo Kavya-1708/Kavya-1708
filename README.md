@@ -8,7 +8,7 @@
 
 - 📫 **How to reach me** :  Kavyaaagarwal178@gmail.com
 
-- **Know my experiences** : https://drive.google.com/file/d/1b0S0STcE4VG_nAaxXkSZHs09N4lBO3sX/view?usp=drive_link
+- **Know my experiences** : https://drive.google.com/file/d/1dDU_Lv2Hqb4wj8KmJPPOmLHM-fo15lI6/view?usp=sharing
 
 - 📄 **Certifications earned** :  https://drive.google.com/drive/folders/1iuN9Za-k833YE5w7YCj6VBvl8SVno-JV?usp=sharing
 
